@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import FileRouter from './file–based-router/FileRouter'
+import FileRouter from './fileBasedRouter/FileRouter'
 
 const PageNotFound = () => {
   return <h1>Page Not Found</h1>

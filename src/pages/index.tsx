@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { RouteData } from '../file–based-router/types'
+import { RouteData } from '../fileBasedRouter/types'
 
 export default function Home() {
   return <h1>Hello World</h1>
